@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minitier-2.github.io/yuleheiliaom/sitemap.xml
